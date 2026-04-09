@@ -4,6 +4,10 @@ I'm a **Computer Science student** studying in **BINUS University** currently Se
 
 ---
 
+### 🎓 Education
+* 🏫 **Home University:** [BINUS University](https://binus.ac.id/), Jakarta (Computer Science)
+* 🌏 **Exchange Program:** [National Sun Yat-sen University](https://www.nsysu.edu.tw/), Taiwan (Spring 2026)
+
 ### 🌏 Current Focus
 * 🇹🇼 **Exchange Semester:** Expanding my CS perspective at NSYSU, Kaohsiung.
 * 🔐 **Cryptography:** Implementing classical and modern ciphers, from Caesar to Elliptic Curve math.
