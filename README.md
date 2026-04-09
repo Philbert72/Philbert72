@@ -19,8 +19,3 @@ I'm a **Computer Science student** studying in **BINUS University** currently Se
 * **Tools:** Git (LFS), Jupyter, MySQL
 * **Platforms:** Developing across macOS & Windows
 
-### 🔭 Academic Journey
-* 🌱 Currently diving deep into **NLP** and **Information Security**.
-* 💬 Ask me about: Statistical analysis, the Extended Euclidean Algorithm, or life as an exchange student in Taiwan.
-* 📍 Based in: Kaohsiung, Taiwan (Exchange) | Jakarta, Indonesia (Home)
-
