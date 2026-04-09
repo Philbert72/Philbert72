@@ -1,4 +1,4 @@
-## 🚀 Hi there, I'm Philbert!  
+## 👋 Hi there, I'm Philbert!  
 
 I'm a **Computer Science student** studying in **BINUS University** currently Semester 6 on exchange at **National Sun Yat-sen University (NSYSU)** in Kaohsiung, Taiwan, diving deep in **Cybersecurity**, **Data Science**, and the mathematical foundations of **Blockchain**.
 
