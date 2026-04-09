@@ -24,8 +24,3 @@ I'm a **Computer Science student** studying in **BINUS University** currently Se
 * 💬 Ask me about: Statistical analysis, the Extended Euclidean Algorithm, or life as an exchange student in Taiwan.
 * 📍 Based in: Kaohsiung, Taiwan (Exchange) | Jakarta, Indonesia (Home)
 
----
-
-### 📫 Let's Connect
-* 🎓 Undergraduate CS Major
-* ⚡ *Fun fact: My current campus has more monkeys than developers.*
