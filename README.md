@@ -1,16 +1,27 @@
-## Hi there 👋
+## 🚀 Hi there, I'm Philbert!  
 
-<!--
-**Philbert72/Philbert72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science student** currently Semester 6 on exchange at **National Sun Yat-sen University (NSYSU)** in Kaohsiung, Taiwan, diving deep in **Cybersecurity**, **Data Science**, and the mathematical foundations of **Blockchain**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌏 Current Focus
+* 🇹🇼 **Exchange Semester:** Expanding my CS perspective at NSYSU, Kaohsiung.
+* 🔐 **Cryptography:** Implementing classical and modern ciphers, from Caesar to Elliptic Curve math.
+* 📊 **Data Science:** Analyzing complex datasets like the World Values Survey and music genre classification via NMF.
+* ⛓️ **Blockchain:** Researching consensus mechanisms and high-order tensors for my upcoming thesis.
+
+### 💻 Tech Stack
+* **Languages:** Python, PHP (Laravel), Java, C
+* **Tools:** Git (LFS), Jupyter, MySQL
+* **Platforms:** Developing across macOS & Windows
+
+### 🔭 Academic Journey
+* 🌱 Currently diving deep into **NLP** and **Information Security**.
+* 💬 Ask me about: Statistical analysis, the Extended Euclidean Algorithm, or life as an exchange student in Taiwan.
+* 📍 Based in: Kaohsiung, Taiwan (Exchange) | Jakarta, Indonesia (Home)
+
+---
+
+### 📫 Let's Connect
+* 🎓 Undergraduate CS Major
+* ⚡ *Fun fact: My current campus has more monkeys than developers.*
