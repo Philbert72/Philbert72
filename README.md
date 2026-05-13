@@ -10,10 +10,7 @@ I'm a **Computer Science student** studying in **BINUS University** currently Se
 
 ### 🌏 Current Focus
 * 🇹🇼 **Exchange Semester:** Expanding my CS perspective at NSYSU, Kaohsiung.
-* 🔐 **Cryptography:** Implementing classical and modern ciphers, from Caesar to Elliptic Curve math.
-* 📊 **Data Science:** Analyzing complex datasets like the World Values Survey and music genre classification via NMF.
-* ⛓️ **Blockchain:** Researching consensus mechanisms and high-order tensors for my upcoming thesis.
-
+* 🤖 **Thesis Research:** Developing an AI-driven security system that identifies suspicious login patterns and data breaches across multiple cloud platforms in real time.
 ### 💻 Tech Stack
 * **Languages:** Python, PHP (Laravel), Java, C
 * **Tools:** Git (LFS), Jupyter, MySQL
